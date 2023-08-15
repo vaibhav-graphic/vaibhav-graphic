@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSubhojeetDas1107&psig=AOvVaw3jZv20GzEU9fSWQ_BJnEqm&ust=1692181033723000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjStt233oADFQAAAAAdAAAAABAR)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSubhojeetDas1107&psig=AOvVaw3jZv20GzEU9fSWQ_BJnEqm&ust=1692181033723000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjStt233oADFQAAAAAdAAAAABAR)]
 
 <h1 align="center">Hi 👋, I'm Vaibhav Bhatt</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
