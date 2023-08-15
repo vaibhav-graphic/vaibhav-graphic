@@ -1,8 +1,8 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSubhojeetDas1107&psig=AOvVaw3jZv20GzEU9fSWQ_BJnEqm&ust=1692181033723000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjStt233oADFQAAAAAdAAAAABAR)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vaibhav Bhatt</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://www.shootdartsolutions.com/img/service/web-design.gif">
 
 - 💬 Ask me about **DSA , JAVA**
 
